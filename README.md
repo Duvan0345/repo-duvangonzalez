@@ -1,1 +1,6 @@
-# repo-duvangonzalez
+-nombre proyecto
+-descripción
+-instalación
+-uso
+-tecnologías
+-autores
